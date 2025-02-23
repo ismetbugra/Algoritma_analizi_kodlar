@@ -1,0 +1,7 @@
+D:\csharp_projects\bubblesortexample\BubbleSortExample\BubbleSortExample\bin\Debug\BubbleSortExample.exe.config
+D:\csharp_projects\bubblesortexample\BubbleSortExample\BubbleSortExample\bin\Debug\BubbleSortExample.exe
+D:\csharp_projects\bubblesortexample\BubbleSortExample\BubbleSortExample\bin\Debug\BubbleSortExample.pdb
+D:\csharp_projects\bubblesortexample\BubbleSortExample\BubbleSortExample\obj\Debug\BubbleSortExample.csproj.AssemblyReference.cache
+D:\csharp_projects\bubblesortexample\BubbleSortExample\BubbleSortExample\obj\Debug\BubbleSortExample.csproj.CoreCompileInputs.cache
+D:\csharp_projects\bubblesortexample\BubbleSortExample\BubbleSortExample\obj\Debug\BubbleSortExample.exe
+D:\csharp_projects\bubblesortexample\BubbleSortExample\BubbleSortExample\obj\Debug\BubbleSortExample.pdb
