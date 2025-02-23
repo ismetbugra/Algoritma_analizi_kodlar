@@ -1,0 +1,7 @@
+D:\csharp_projects\kthselectionexample\KthSelectionExample\KthSelectionExample\bin\Debug\KthSelectionExample.exe.config
+D:\csharp_projects\kthselectionexample\KthSelectionExample\KthSelectionExample\bin\Debug\KthSelectionExample.exe
+D:\csharp_projects\kthselectionexample\KthSelectionExample\KthSelectionExample\bin\Debug\KthSelectionExample.pdb
+D:\csharp_projects\kthselectionexample\KthSelectionExample\KthSelectionExample\obj\Debug\KthSelectionExample.csproj.AssemblyReference.cache
+D:\csharp_projects\kthselectionexample\KthSelectionExample\KthSelectionExample\obj\Debug\KthSelectionExample.csproj.CoreCompileInputs.cache
+D:\csharp_projects\kthselectionexample\KthSelectionExample\KthSelectionExample\obj\Debug\KthSelectionExample.exe
+D:\csharp_projects\kthselectionexample\KthSelectionExample\KthSelectionExample\obj\Debug\KthSelectionExample.pdb
