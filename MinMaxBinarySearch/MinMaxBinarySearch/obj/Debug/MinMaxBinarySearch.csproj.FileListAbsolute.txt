@@ -1,0 +1,7 @@
+D:\csharp_projects\MinMaxBinarySearch\MinMaxBinarySearch\obj\Debug\MinMaxBinarySearch.csproj.AssemblyReference.cache
+D:\csharp_projects\MinMaxBinarySearch\MinMaxBinarySearch\obj\Debug\MinMaxBinarySearch.csproj.CoreCompileInputs.cache
+D:\csharp_projects\MinMaxBinarySearch\MinMaxBinarySearch\bin\Debug\MinMaxBinarySearch.exe.config
+D:\csharp_projects\MinMaxBinarySearch\MinMaxBinarySearch\bin\Debug\MinMaxBinarySearch.exe
+D:\csharp_projects\MinMaxBinarySearch\MinMaxBinarySearch\bin\Debug\MinMaxBinarySearch.pdb
+D:\csharp_projects\MinMaxBinarySearch\MinMaxBinarySearch\obj\Debug\MinMaxBinarySearch.exe
+D:\csharp_projects\MinMaxBinarySearch\MinMaxBinarySearch\obj\Debug\MinMaxBinarySearch.pdb
