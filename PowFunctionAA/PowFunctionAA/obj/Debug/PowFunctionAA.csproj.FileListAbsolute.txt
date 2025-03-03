@@ -1,0 +1,7 @@
+D:\csharp_projects\PowFunctionAA\PowFunctionAA\bin\Debug\PowFunctionAA.exe.config
+D:\csharp_projects\PowFunctionAA\PowFunctionAA\bin\Debug\PowFunctionAA.exe
+D:\csharp_projects\PowFunctionAA\PowFunctionAA\bin\Debug\PowFunctionAA.pdb
+D:\csharp_projects\PowFunctionAA\PowFunctionAA\obj\Debug\PowFunctionAA.csproj.AssemblyReference.cache
+D:\csharp_projects\PowFunctionAA\PowFunctionAA\obj\Debug\PowFunctionAA.csproj.CoreCompileInputs.cache
+D:\csharp_projects\PowFunctionAA\PowFunctionAA\obj\Debug\PowFunctionAA.exe
+D:\csharp_projects\PowFunctionAA\PowFunctionAA\obj\Debug\PowFunctionAA.pdb
