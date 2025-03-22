@@ -1,0 +1,2 @@
+D:\csharp_projects\BubbleSortAnalysisNotation\BubbleSortAnalysisNotation\obj\Debug\BubbleSortAnalysisNotation.csproj.AssemblyReference.cache
+D:\csharp_projects\BubbleSortAnalysisNotation\BubbleSortAnalysisNotation\obj\Debug\BubbleSortAnalysisNotation.csproj.CoreCompileInputs.cache
