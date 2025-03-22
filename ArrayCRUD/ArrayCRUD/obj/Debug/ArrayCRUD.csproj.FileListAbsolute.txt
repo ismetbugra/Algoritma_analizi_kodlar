@@ -1,0 +1,7 @@
+D:\csharp_projects\ArrayCRUD\ArrayCRUD\bin\Debug\ArrayCRUD.exe.config
+D:\csharp_projects\ArrayCRUD\ArrayCRUD\bin\Debug\ArrayCRUD.exe
+D:\csharp_projects\ArrayCRUD\ArrayCRUD\bin\Debug\ArrayCRUD.pdb
+D:\csharp_projects\ArrayCRUD\ArrayCRUD\obj\Debug\ArrayCRUD.csproj.AssemblyReference.cache
+D:\csharp_projects\ArrayCRUD\ArrayCRUD\obj\Debug\ArrayCRUD.csproj.CoreCompileInputs.cache
+D:\csharp_projects\ArrayCRUD\ArrayCRUD\obj\Debug\ArrayCRUD.exe
+D:\csharp_projects\ArrayCRUD\ArrayCRUD\obj\Debug\ArrayCRUD.pdb
